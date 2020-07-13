@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRuleEngine", "BusinessRuleEngine\BusinessRuleEngine.csproj", "{0F04968A-F622-4DCD-A930-DF82B0D1294F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRuleVerificationClient", "BusinessRuleVerificationClient\BusinessRuleVerificationClient.csproj", "{1B31D57F-94A9-47B0-96DB-4A71090E678E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRuleEngineTests", "BusinessRuleEngineTests\BusinessRuleEngineTests.csproj", "{B361D330-DCC7-4B7D-AB5E-5DDCED45EE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRuleEngine.Common", "BusinessRuleEngine.Common\BusinessRuleEngine.Common.csproj", "{F05D96C7-DFD0-4037-A827-73BC3ED04021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F04968A-F622-4DCD-A930-DF82B0D1294F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F04968A-F622-4DCD-A930-DF82B0D1294F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F04968A-F622-4DCD-A930-DF82B0D1294F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F04968A-F622-4DCD-A930-DF82B0D1294F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B31D57F-94A9-47B0-96DB-4A71090E678E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B31D57F-94A9-47B0-96DB-4A71090E678E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B31D57F-94A9-47B0-96DB-4A71090E678E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B31D57F-94A9-47B0-96DB-4A71090E678E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B361D330-DCC7-4B7D-AB5E-5DDCED45EE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B361D330-DCC7-4B7D-AB5E-5DDCED45EE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B361D330-DCC7-4B7D-AB5E-5DDCED45EE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B361D330-DCC7-4B7D-AB5E-5DDCED45EE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05D96C7-DFD0-4037-A827-73BC3ED04021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05D96C7-DFD0-4037-A827-73BC3ED04021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05D96C7-DFD0-4037-A827-73BC3ED04021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05D96C7-DFD0-4037-A827-73BC3ED04021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
